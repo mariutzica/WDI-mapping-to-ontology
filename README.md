@@ -1,0 +1,1 @@
+This repository contains the initial scripting files to attempt to automate the creation of variables into the Scientific Variables Ontology format by categorizing words. These scripts are at a very early stage of development.
